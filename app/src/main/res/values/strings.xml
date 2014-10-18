@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ribbit</string>
+    <string name="title_section1">Inbox</string>
+    <string name="title_section2">Friends</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_logout">Log Out</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+
+    <string name="login_button">Login</string>
+    <string name = "log_in_error_message">Please ensure that you entered a valid username, password and email</string>
+    <string name = "log_in_error_title">Oops!</string>
+
+
+    <string name="sign_up_text">Sign up!</string>
+    <string name="sign_up_button_label">Sign up</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name = "sign_up_error_message">Please ensure that you entered a valid username, password and email</string>
+    <string name = "sign_up_error_title">Oops!</string>
+
+
+    <string name="email_hint">Email Address</string>
+
+</resources>
