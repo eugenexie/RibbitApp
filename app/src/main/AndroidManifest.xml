@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="company.eugene.ribbit" >
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+=======
+    package="com.macrosoft.chinesesnapchat" >
+>>>>>>> bitbucket/master
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
+<<<<<<< HEAD
         android:theme="@style/AppTheme"
         android:name=".RibbitApplication">
         <activity
@@ -16,12 +21,19 @@
             android:configChanges="orientation"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
+=======
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Home"
+            android:label="@string/app_name" >
+>>>>>>> bitbucket/master
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity
             android:name=".LoginActivity"
             android:label="@string/title_activity_login"
@@ -33,6 +45,8 @@
             android:screenOrientation="portrait"
             android:parentActivityName=".LoginActivity">
         </activity>
+=======
+>>>>>>> bitbucket/master
     </application>
 
 </manifest>

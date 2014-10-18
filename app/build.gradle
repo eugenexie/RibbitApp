@@ -5,8 +5,13 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "company.eugene.ribbit"
         minSdkVersion 12
+=======
+        applicationId "com.macrosoft.chinesesnapchat"
+        minSdkVersion 15
+>>>>>>> bitbucket/master
         targetSdkVersion 20
         versionCode 1
         versionName "1.0"
@@ -20,8 +25,12 @@ android {
 }
 
 dependencies {
+<<<<<<< HEAD
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:20.0.0'
 
     compile files('libs/Parse-1.7.1.jar')
+=======
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+>>>>>>> bitbucket/master
 }

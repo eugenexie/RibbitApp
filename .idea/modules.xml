@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Ribbit.iml" filepath="$PROJECT_DIR$/Ribbit.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/ChineseSnapchat.iml" filepath="$PROJECT_DIR$/ChineseSnapchat.iml" />
+>>>>>>> bitbucket/master
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

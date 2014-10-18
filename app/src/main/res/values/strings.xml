@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <string name="app_name">Ribbit</string>
     <string name="title_section1">Inbox</string>
     <string name="title_section2">Friends</string>
@@ -24,5 +25,10 @@
 
 
     <string name="email_hint">Email Address</string>
+=======
+    <string name="app_name">Chinese Snapchat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+>>>>>>> bitbucket/master
 
 </resources>
