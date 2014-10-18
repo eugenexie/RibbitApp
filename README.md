@@ -22,4 +22,20 @@ Currently barely-functioning App with Login and Signup Activities that utilize t
 * Comment your code!
 * Meaningful commit messages.
 * Code style is currently just Android Studio defaults, speak up if you're horribly against it.
+
+
+### Things Eugene will be adding ###
+
+* Replacing the Tabs in this app with fragments
+* Providing swiping between fragments functionality
+* Adding ability to take photo or video
+* Adding concept of friends list (Relating users in parse.com database)
+* Sending, Retrieving and Viewing messages
+* Self-destruct functionality
+
+
+### Things Derek/William/Levi want to add ###
+
+* Please write anything down that you want to add in terms of functionality, or make a branch and add that functionality.
+
 >>>>>>> bitbucket/master
